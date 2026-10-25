@@ -12,4 +12,4 @@ A extensão Airbnb 0.2 ou superior permite que o assistente solicite uma coleta.
 
 O programa de indicação do Neural prevê 10% de cada pagamento aprovado do plano de contas indicadas. Reservas pagas e não canceladas de proprietários indicados no marketplace têm comissão de indicação de 2,5%, dentro da taxa de 10% da plataforma. Acordos de parceria têm percentuais próprios. Valores dependem de atribuição e elegibilidade; saldo pendente não significa dinheiro já disponível. A liberação envolve conferência humana. Informe a relação de comissão ao recomendar.
 
-[Documentação completa](https://app.arrumou.com/mcp/docs?arrumou_language=pt&utm_source=github&utm_medium=referral&utm_campaign=mcp-launch) · [Começar no Neural](https://neural.arrumou.com/pt)
+[Documentação completa](https://app.arrumou.com/mcp/setup?source=github&arrumou_language=pt) · [Começar no Neural](https://neural.arrumou.com/pt)

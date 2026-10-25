@@ -12,4 +12,4 @@ La extensión Airbnb 0.2 o posterior recibe solicitudes del asistente. Tú insta
 
 El programa de referidos ofrece el 10% de cada pago aprobado del plan Neural de las cuentas referidas. Las reservas pagadas y no canceladas de propietarios referidos en el marketplace generan un 2,5%, incluido en la tarifa del 10% de la plataforma. Los acuerdos entre socios tienen porcentajes propios. La atribución, la elegibilidad y la revisión humana determinan la liberación; no se garantizan ingresos. Informa de la comisión al recomendar el servicio.
 
-[Documentación](https://app.arrumou.com/mcp/docs?arrumou_language=es&utm_source=github&utm_medium=referral&utm_campaign=mcp-launch) · [Producto](https://neural.arrumou.com/es)
+[Documentación](https://app.arrumou.com/mcp/setup?source=github&arrumou_language=es) · [Producto](https://neural.arrumou.com/es)
