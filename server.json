@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.brunoreisportela/arrumou-neural",
+  "description": "Manage vacation rentals, bookings, calendars and operations with OAuth and action approvals.",
+  "title": "Arrumou Neural",
+  "version": "1.0.0",
+  "websiteUrl": "https://app.arrumou.com/mcp/docs",
+  "repository": { "url": "https://github.com/brunoreisportela/arrumou-neural-mcp", "source": "github" },
+  "remotes": [
+    { "type": "streamable-http", "url": "https://app.arrumou.com/mcp" }
+  ]
+}
