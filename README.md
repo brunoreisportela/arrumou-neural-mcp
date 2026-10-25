@@ -5,7 +5,7 @@ Connect an MCP assistant to your vacation-rental or hospitality operation: reser
 **Remote endpoint:** `https://app.arrumou.com/mcp`  
 **Transport:** Streamable HTTP  
 **Authentication:** OAuth with PKCE S256 and dynamic client registration  
-**Developer documentation:** [app.arrumou.com/mcp/docs](https://app.arrumou.com/mcp/docs?utm_source=github&utm_medium=referral&utm_campaign=mcp-launch)
+**Developer documentation:** [app.arrumou.com/mcp/docs](https://app.arrumou.com/mcp/setup?source=github)
 
 This repository contains public documentation and configuration examples for the hosted Arrumou Neural service. It does not contain the server implementation or a self-hostable package. A Neural account and applicable access to the operation are required. Availability in a client's curated app directory is separate from manually connecting this endpoint.
 
